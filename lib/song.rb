@@ -20,7 +20,7 @@ class Song
     else 
       self.artist.name
     end
-    #binding.pry
+    #artist.name if artist
   end 
 end 
 
